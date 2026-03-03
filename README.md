@@ -3,7 +3,11 @@
 > **An editorial-grade transcreation workbench for globalizing Chinese brands. 中国品牌出海文案本土化生成器。**
 
 **✍️ Tryout:**
-https://brand-culture-bridge2.vercel.app/
+
+https://gemini.google.com/share/31371377ac9c (with API)
+
+https://brand-culture-bridge2.vercel.app/ (without API)
+
 
 CultureBridge is a specialized AI-powered workspace designed to help Chinese brands adapt their messaging for international markets. It moves beyond literal translation, focusing instead on **cultural transcreation** and **resonance auditing** to ensure brand identity survives and thrives overseas.
 
